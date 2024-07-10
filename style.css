@@ -1,0 +1,25 @@
+
+        body {
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            height: 80vh;
+            background-color: rgb(140, 207, 207);
+        }
+        h1 {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 32px;
+            color: hsl(347, 32%, 57%);
+        }
+        img {
+            width: 190px;
+        }
+        .custom-p {
+            font-weight: bold;
+        }
+        .social-media img {
+            width: 30px;
+            height: 30px;
+            vertical-align: middle;
+        }
+    
